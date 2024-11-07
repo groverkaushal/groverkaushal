@@ -1,5 +1,6 @@
 ### Hey there, I'm Kaushal! 👋
 
+<!--
 ## About me
 - I am a recent Master's graduate in Computational Biology from Jawaharlal Nehru University (JNU).
 - My expertise lies in analysis of various types of High-Throughput sequencing Omics (NGS) data, with a strong focus on bulk and single-cell RNA sequencing.
@@ -27,4 +28,4 @@
 <a href="https://drive.google.com/file/d/1-T-1wtvBiiplU0zyqCPTGy7OGgEMCQWf/view?usp=sharing">
   <img src="https://img.shields.io/badge/Download-Master's_Dissertation-blue" width="230" height="30" alt="Download Dissertation">
 </a>
-
+-->
