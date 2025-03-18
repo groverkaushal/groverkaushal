@@ -8,7 +8,7 @@
 - Below are my socials and Portfolio💼
 
 ## Links
-<a href="https://genome-slayer.framer.website">
+<a href="https://kaushalgrover.framer.website/">
   <img src="https://img.shields.io/badge/-Website_--_Portfolio-brightgreen" width="160" height="30" alt="Website/Portfolio">
 </a>
 <a href="https://scholar.google.com/citations?user=DmZGWscAAAAJ&hl=en">
