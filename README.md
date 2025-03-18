@@ -19,9 +19,9 @@
 </a>
 
 ## Downloads
-<a href="https://drive.google.com/file/d/1uicv7Z2b2aNat-LrdGTE5eMXjv4Cww6I/view?usp=sharing">
+<!-- <a href="https://drive.google.com/file/d/1uicv7Z2b2aNat-LrdGTE5eMXjv4Cww6I/view?usp=sharing">
   <img src="https://img.shields.io/badge/Download-CV-orange" width="120" height="30" alt="Download CV">
-</a>
+</a> -->
 <a href="https://drive.google.com/file/d/1ZMTjf8KUT24mjs3N1IGyRNTdOg5ICdFQ/view?usp=sharing">
   <img src="https://img.shields.io/badge/Download-Resume-green" width="150" height="30" alt="Download Resume">
 </a>
