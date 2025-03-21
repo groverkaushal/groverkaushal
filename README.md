@@ -4,7 +4,7 @@
 ## About me
 - I am a Data Engineer with a strong foundation in computational biology and data-driven problem-solving. 
 - My expertise lies in Python, PySpark, PostgreSQL, Docker, Tableau, and Linux.
-- My previous work also involved analysis of various types of High-Throughput sequencing Omics (NGS) data, with a strong focus on bulk and single-cell RNA sequencing.
+- My previous work also involved analysis of various types of High-Throughput sequencing Omics (NGS) data, with focus on bulk and single-cell RNA sequencing.
 - Below are my socials and Portfolio💼
 
 ## Links
