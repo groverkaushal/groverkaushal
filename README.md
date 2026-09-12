@@ -2,13 +2,12 @@
 
 
 ## About me
-- I am a Data Engineer with a strong foundation in computational biology and data-driven problem-solving. 
-- My expertise lies in Python, PySpark, PostgreSQL, Docker, Tableau, and Linux.
-- My previous work also involved analysis of various types of High-Throughput sequencing Omics (NGS) data, with focus on bulk and single-cell RNA sequencing.
+- I am a Data Engineer focused on architecture and reliability, not just code. 
+
 - Below are my socials and Portfolio💼
 
 ## Links
-<a href="https://kaushalgrover.framer.website/">
+<a href="https://kaushalgrover.com">
   <img src="https://img.shields.io/badge/-Website_--_Portfolio-brightgreen" width="160" height="30" alt="Website/Portfolio">
 </a>
 <a href="https://scholar.google.com/citations?user=DmZGWscAAAAJ&hl=en">
@@ -22,7 +21,7 @@
 <!-- <a href="https://drive.google.com/file/d/1uicv7Z2b2aNat-LrdGTE5eMXjv4Cww6I/view?usp=sharing">
   <img src="https://img.shields.io/badge/Download-CV-orange" width="120" height="30" alt="Download CV">
 </a> -->
-<a href="https://drive.google.com/file/d/1ZMTjf8KUT24mjs3N1IGyRNTdOg5ICdFQ/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1u5XQAHPBykx9wzxv-VMQCIuyNyDN3cjy/view">
   <img src="https://img.shields.io/badge/Download-Resume-green" width="150" height="30" alt="Download Resume">
 </a>
 <a href="https://drive.google.com/file/d/1-T-1wtvBiiplU0zyqCPTGy7OGgEMCQWf/view?usp=sharing">
