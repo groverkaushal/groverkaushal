@@ -2,7 +2,7 @@
 
 
 ## About me
-- I am a Data Engineer focused on architecture and reliability, not just code. 
+- I am a Full Stack Engineer focused on architecture and reliability, not just code. 
 
 - Below are my socials and Portfolio💼
 
